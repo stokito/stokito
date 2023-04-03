@@ -12,7 +12,9 @@ Some useful projects that I developed, maintaining or contributed:
 * WebDAV - a file sharing made easy
   * [Awesome WebDAV](https://github.com/stokito/awesome-webdav) - a currated list of software and articles that may use WebDAV.
   * [Unofficial WebDAV support team](https://github.com/WebDAVDevs) - a place to organoze support and dicussions.
+  * [WebDAV browser extension](https://github.com/WebDAVDevs/webdav-browser-extension)
 * Golang micro libraries
+  * [go-str2bytes](https://github.com/stokito/go-str2bytes) - string to byte slices without alloc by using unsafe 
   * [go-logger-noalloc](https://github.com/stokito/go-logger-noalloc) - a suckless logger that avoids mem allocs.
   * [go-http-server-basic-auth](https://github.com/stokito/go-http-server-basic-auth) - a middleware for http server to make a simple auth.
   * [go-gzip-buf-file](https://github.com/stokito/go-gzip-buf-file) - create a gzip file, useful for logging.
@@ -24,5 +26,18 @@ Some useful projects that I developed, maintaining or contributed:
 * [deflate](https://github.com/stokito/deflate) - a CLI tool to compress to Deflate insteasd of gzip
 * [Ubuntu PPA with OpenWrt programs](https://github.com/stokito/openwrt-ubuntu)
 * [Pidgin FChat plugin](https://github.com/stokito/pidgin-fchat) - a simple serverless UDP based chat messanger for local network.
-* Samples and tutorials
-  * [JavaFX](https://github.com/stokito/javafx-calculator)
+* Samples and tutorials for Java Juniors
+  * [Calculator in JavaFX](https://github.com/stokito/javafx-calculator)
+  * [OCPJP](https://github.com/stokito/OCPJP)
+  * [Java live coding tasks](https://github.com/stokito/java-live-coding-tasks)
+  * [RPN calculator](https://github.com/stokito/rpn-calc)
+  * [player-level-service](https://github.com/stokito/player-level-service) - a test task for Senior Java Dev
+* [Gist](https://gist.github.com/stokito) samples, instructions, scripts
+* Games
+  * https://github.com/stokito/iGeniuous
+
+Contacts:
+* [/in/stokito](https://www.linkedin.com/in/stokito/) feel free to add me on LinkedId
+* [Blog](https://stokito.wordpress.com/)
+* [Homepage](https://stokito.com/)
+* [odysee.com/@stokito](https://odysee.com/@stokito) Odysee channel
