@@ -5,6 +5,7 @@ Some useful projects that I developed, maintaining or contributed:
 * IntelliJ Idea plugins
   * [Idea JOL](https://github.com/stokito/IdeaJol) - a plugin that shows an object layout in memory to help optimize it. Uses [OpenJDK JOL](https://github.com/openjdk/jol)
   * [Idea JMH](https://github.com/artyushov/idea-jmh-plugin) - a plugin to run [OpenJDK JMH](https://github.com/openjdk/jmh) benchmarks directly from Idea.
+  * [Idea JMeter](https://github.com/ponomandr/jmeter-idea-plugin)
   * [Idea Mike's extensions](https://github.com/Miha-x64/Mikes_IDEA_extensions) - a few inspections for Java and Android.
   * [Singleton Inspection](https://github.com/stokito/IdeaSingletonInspection) - a simple plugin with inspection for Singleton pattern. Useful to learn hot to make inspections.
 * Self-hosting
@@ -37,7 +38,7 @@ Some useful projects that I developed, maintaining or contributed:
   * https://github.com/stokito/iGeniuous
 
 Contacts:
-* [/in/stokito](https://www.linkedin.com/in/stokito/) feel free to add me on LinkedId
+* [LinkedIn](https://www.linkedin.com/in/stokito/) feel free to add me on LinkedId
 * [Blog](https://stokito.wordpress.com/)
 * [Homepage](https://stokito.com/)
 * [odysee.com/@stokito](https://odysee.com/@stokito) Odysee channel
