@@ -41,5 +41,5 @@ Contacts:
 * [LinkedIn](https://www.linkedin.com/in/stokito/) feel free to add me on LinkedId
 * [Blog](https://stokito.wordpress.com/)
 * [Homepage](https://stokito.com/)
-* Resume/CV: on [Google Docs](https://docs.google.com/document/d/1k_NF7c_9jinoF8_UX6MZNlNWnGJAb7-kBT9omMOz6qc/)
+* Resume/CV: on [Google Docs](https://docs.google.com/document/d/1k_NF7c_9jinoF8_UX6MZNlNWnGJAb7-kBT9omMOz6qc/), [resume.json](https://registry.jsonresume.org/stokito)
 * [odysee.com/@stokito](https://odysee.com/@stokito) Odysee channel
