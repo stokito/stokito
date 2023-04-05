@@ -26,16 +26,16 @@ Some useful projects that I developed, maintaining or contributed:
   * [ctop](https://github.com/bcicen/ctop) - a top like GUI for Docker
 * [deflate](https://github.com/stokito/deflate) - a CLI tool to compress to Deflate insteasd of gzip
 * [Ubuntu PPA with OpenWrt programs](https://github.com/stokito/openwrt-ubuntu)
-* [Pidgin FChat plugin](https://github.com/stokito/pidgin-fchat) - a simple serverless UDP based chat messanger for local network.
+* [Pidgin FChat plugin](https://github.com/stokito/pidgin-fchat) - a suckless serverless UDP based chat messanger for local network.
 * Samples and tutorials for Java Juniors
   * [Calculator in JavaFX](https://github.com/stokito/javafx-calculator)
-  * [OCPJP](https://github.com/stokito/OCPJP)
+  * [Задачи из OSCJP сертификации по Java](https://github.com/stokito/OCPJP)
   * [Java live coding tasks](https://github.com/stokito/java-live-coding-tasks)
   * [RPN calculator](https://github.com/stokito/rpn-calc)
   * [player-level-service](https://github.com/stokito/player-level-service) - a test task for Senior Java Dev
 * [Gist](https://gist.github.com/stokito) samples, instructions, scripts
 * Games
-  * https://github.com/stokito/iGeniuous
+  * [iGeniuous](https://github.com/stokito/iGeniuous)
 
 Contacts:
 * [LinkedIn](https://www.linkedin.com/in/stokito/) feel free to add me on LinkedId
