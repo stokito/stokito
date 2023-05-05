@@ -9,7 +9,7 @@ Some useful projects that I developed, maintaining or contributed:
   * [Idea Mike's extensions](https://github.com/Miha-x64/Mikes_IDEA_extensions) - a few inspections for Java and Android.
   * [Singleton Inspection](https://github.com/stokito/IdeaSingletonInspection) - a simple plugin with inspection for Singleton pattern. Useful to learn hot to make inspections.
 * Self-hosting
-  * [Yurt Page](https://github.com/yurt-page/docs) - a slefhosting at home on cheapest devices
+  * [Yurt Page](https://github.com/yurt-page/docs) - a selfhosting at home on cheapest devices like a router
 * WebDAV - a file sharing made easy
   * [Awesome WebDAV](https://github.com/stokito/awesome-webdav) - a currated list of software and articles that may use WebDAV.
   * [Unofficial WebDAV support team](https://github.com/WebDAVDevs) - a place to organoze support and dicussions.
