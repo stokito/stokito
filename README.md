@@ -28,15 +28,17 @@ Some useful projects that I developed, maintaining or contributed:
 * [Ubuntu PPA with OpenWrt programs](https://github.com/stokito/openwrt-ubuntu)
 * [Pidgin FChat plugin](https://github.com/stokito/pidgin-fchat) - a suckless serverless UDP based chat messanger for local network.
 * Samples and tutorials for Java Juniors
-  * [ports-service](https://github.com/stokito/ports-service) - Test assignment for Senior Golang Developer
   * [Calculator in JavaFX](https://github.com/stokito/javafx-calculator)
   * [Задачи из OSCJP сертификации по Java](https://github.com/stokito/OCPJP)
   * [Java live coding tasks](https://github.com/stokito/java-live-coding-tasks)
+* Portfolio and test assignments
+  * [ports-service](https://github.com/stokito/ports-service) - Test assignment for Senior Golang Developer
   * [RPN calculator](https://github.com/stokito/rpn-calc) Test assignment for Senior Java Developer
-  * [player-level-service](https://github.com/stokito/player-level-service) - Test assignment for Senior Java Developer
+  * [player-level-service](https://github.com/stokito/player-level-service) - Test assignment for Senior 
+Java Developer
 * [Gist](https://gist.github.com/stokito) samples, instructions, scripts
 * Games
-  * [iGeniuous](https://github.com/stokito/iGeniuous)
+  * [iGeniuous](https://github.com/stokito/iGeniuous) an arcade game in JS
 
 Contacts:
 * [LinkedIn](https://www.linkedin.com/in/stokito/) feel free to add me on LinkedId
