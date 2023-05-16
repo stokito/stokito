@@ -41,7 +41,7 @@ Java Developer
   * [iGeniuous](https://github.com/stokito/iGeniuous) an arcade game in JS
 
 Contacts:
-* [LinkedIn](https://www.linkedin.com/in/stokito/) feel free to add me on LinkedId
+* [LinkedIn](https://www.linkedin.com/in/stokito/) feel free to add me on LinkedIn
 * [Blog](https://stokito.wordpress.com/)
 * [Homepage](https://stokito.com/)
 * Resume/CV: on [Google Docs](https://docs.google.com/document/d/1k_NF7c_9jinoF8_UX6MZNlNWnGJAb7-kBT9omMOz6qc/), [resume.json](https://registry.jsonresume.org/stokito)
