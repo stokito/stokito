@@ -20,6 +20,7 @@ Some useful projects that I developed, maintaining or contributed:
   * [go-http-server-basic-auth](https://github.com/stokito/go-http-server-basic-auth) - a middleware for http server to make a simple auth.
   * [go-gzip-buf-file](https://github.com/stokito/go-gzip-buf-file) - create a gzip file, useful for logging.
   * [go-intslice](https://github.com/stokito/go-intslice) - a slice of int16 with binary search. Nothing special, but makes easier working with small lists or maps
+  * [go-http-body](https://github.com/stokito/go-http-body) - read request body and close it.
 * Golang projects
   * [go-qrcode-libs-compare](https://github.com/stokito/go-qrcode-libs-compare) - a test project to check QR code libraries
   * [go-tcp-proxy](https://github.com/stokito/go-tcp-proxy/tree/mirroring) - to make a port mirroring.
