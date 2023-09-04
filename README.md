@@ -22,7 +22,7 @@ Some useful projects that I developed, maintaining or contributed:
   * [go-intslice](https://github.com/stokito/go-intslice) - a slice of int16 with binary search. Nothing special, but makes easier working with small lists or maps
 * Golang projects
   * [go-qrcode-libs-compare](https://github.com/stokito/go-qrcode-libs-compare) - a test project to check QR code libraries
-  * [go-tcp-proxy](https://github.com/stokito/go-tcp-proxy) - to make a port mirroring.
+  * [go-tcp-proxy](https://github.com/stokito/go-tcp-proxy/tree/mirroring) - to make a port mirroring.
   * [ctop](https://github.com/bcicen/ctop) - a top like GUI for Docker
 * [deflate](https://github.com/stokito/deflate) - a CLI tool to compress to Deflate insteasd of gzip
 * [Ubuntu PPA with OpenWrt programs](https://github.com/stokito/openwrt-ubuntu)
@@ -40,9 +40,15 @@ Java Developer
 * Games
   * [iGeniuous](https://github.com/stokito/iGeniuous) an arcade game in JS
 
-Contacts:
+I'm available for a job:
 * [LinkedIn](https://www.linkedin.com/in/stokito/) feel free to add me on LinkedIn
+* Resume/CV: on [Google Docs](https://docs.google.com/document/d/1k_NF7c_9jinoF8_UX6MZNlNWnGJAb7-kBT9omMOz6qc/), [resume.json](https://registry.jsonresume.org/stokito)
+
+Contacts:
+* mailto:stokito@gmail.com 
+* Matrix: https://matrix.to/#/@stokito:matrix.org
+
+My sites:
 * [Blog](https://stokito.wordpress.com/)
 * [Homepage](https://stokito.com/)
-* Resume/CV: on [Google Docs](https://docs.google.com/document/d/1k_NF7c_9jinoF8_UX6MZNlNWnGJAb7-kBT9omMOz6qc/), [resume.json](https://registry.jsonresume.org/stokito)
 * [odysee.com/@stokito](https://odysee.com/@stokito) Odysee channel
