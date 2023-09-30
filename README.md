@@ -14,6 +14,7 @@ Some useful projects that I developed, maintaining or contributed:
   * [Awesome WebDAV](https://github.com/stokito/awesome-webdav) - a currated list of software and articles that may use WebDAV.
   * [Unofficial WebDAV support team](https://github.com/WebDAVDevs) - a place to organoze support and dicussions.
   * [WebDAV browser extension](https://github.com/WebDAVDevs/webdav-browser-extension)
+  * [WebDAV with curl for scripts and command line](https://gist.github.com/stokito/cf82ce965718ce87f36b78f7501d7940)
 * Golang micro libraries
   * [go-str2bytes](https://github.com/stokito/go-str2bytes) - string to byte slices without alloc by using unsafe 
   * [go-logger-noalloc](https://github.com/stokito/go-logger-noalloc) - a suckless logger that avoids mem allocs.
@@ -39,6 +40,11 @@ Some useful projects that I developed, maintaining or contributed:
   * [player-level-service](https://github.com/stokito/player-level-service) - Test assignment for Senior 
 Java Developer
 * [Gist](https://gist.github.com/stokito) samples, instructions, scripts
+  * [Cryptography GUI tools: OpenSSL GUI, keys management, PKI, PGP/GPG GUI](https://gist.github.com/stokito/eea7ee50d51e1db30122e2e33a62723e)
+  * [CGI bin script samples](https://gist.github.com/stokito/a9a2732ffc7982978a16e40e8d063c8f)
+  * [Emojis that may be used instead of an icon for applications](https://gist.github.com/stokito/d3963872b8113ded8bad621f5cb04352)
+  * [good floats](https://gist.github.com/stokito/21caead0b334c788e950c8a86cd90a04) finite IEEE-754 that are always equals. Useful for testing.
+  * [Binary Search on x8085 ASM](https://gist.github.com/stokito/b750d26321f4b4688bc66aa470931436)
 * Games
   * [iGeniuous](https://github.com/stokito/iGeniuous) an arcade game in JS
 
