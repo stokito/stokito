@@ -37,14 +37,15 @@ Some useful projects that I developed, maintaining or contributed:
   * [golang-parallel-downloader](https://github.com/stokito/golang-parallel-downloader) - live coding task from interview for Senior Golang developer 
   * [ports-service](https://github.com/stokito/ports-service) - Test assignment for Senior Golang Developer
   * [RPN calculator](https://github.com/stokito/rpn-calc) Test assignment for Senior Java Developer
-  * [player-level-service](https://github.com/stokito/player-level-service) - Test assignment for Senior 
-Java Developer
+  * [player-level-service](https://github.com/stokito/player-level-service) - Test assignment for Senior Java Developer
+  * [beer for a programmer](https://gist.github.com/stokito/8d2f19f007da5a9cc1eb) - live conding task in Groovy and Spock
 * [Gist](https://gist.github.com/stokito) samples, instructions, scripts
   * [Cryptography GUI tools: OpenSSL GUI, keys management, PKI, PGP/GPG GUI](https://gist.github.com/stokito/eea7ee50d51e1db30122e2e33a62723e)
   * [CGI bin script samples](https://gist.github.com/stokito/a9a2732ffc7982978a16e40e8d063c8f)
   * [Emojis that may be used instead of an icon for applications](https://gist.github.com/stokito/d3963872b8113ded8bad621f5cb04352)
   * [good floats](https://gist.github.com/stokito/21caead0b334c788e950c8a86cd90a04) finite IEEE-754 that are always equals. Useful for testing.
   * [Binary Search on x8085 ASM](https://gist.github.com/stokito/b750d26321f4b4688bc66aa470931436)
+  * [XMLEscaper.java](https://gist.github.com/stokito/dd0666e6b13870d79bf9de40d8d04e88) to avoid basic XSS
 * Games
   * [iGeniuous](https://github.com/stokito/iGeniuous) an arcade game in JS
 
