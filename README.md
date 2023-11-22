@@ -34,6 +34,7 @@ Some useful projects that I developed, maintaining or contributed:
   * [Задачи из OSCJP сертификации по Java](https://github.com/stokito/OCPJP)
   * [Java live coding tasks](https://github.com/stokito/java-live-coding-tasks)
 * Portfolio and test assignments
+  * [sensord](https://github.com/stokito/sensord) - Test assignment for Senior Golang Developer
   * [golang-parallel-downloader](https://github.com/stokito/golang-parallel-downloader) - live coding task from interview for Senior Golang developer 
   * [ports-service](https://github.com/stokito/ports-service) - Test assignment for Senior Golang Developer
   * [RPN calculator](https://github.com/stokito/rpn-calc) Test assignment for Senior Java Developer
