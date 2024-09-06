@@ -55,10 +55,10 @@ I'm available for a job:
 * Resume/CV: on [Google Docs](https://docs.google.com/document/d/1k_NF7c_9jinoF8_UX6MZNlNWnGJAb7-kBT9omMOz6qc/), [resume.json](https://registry.jsonresume.org/stokito)
 
 Contacts:
-* Email: <a href="mailto:stokito@gmail.com">stokito@gmail.com</a>
-* XMPP (Jabber): <a href="xmpp:stokito@conversations.im">stokito@conversations.im</a>
-* Matrix: <a href="https://matrix.to/#/@stokito:matrix.org">@stokito:matrix.org</a>
-* Telegram: <a href="https://t.me/stokito">@stokito</a>
+* Email: [stokito@gmail.com](mailto:stokito@gmail.com)
+* XMPP (Jabber): [stokito@conversations.im](xmpp:stokito@conversations.im)
+* Matrix: [@stokito:matrix.org](https://matrix.to/#/@stokito:matrix.org)
+* Telegram: [@stokito](https://t.me/stokito)
 
 My sites:
 * [Blog](https://stokito.wordpress.com/)
