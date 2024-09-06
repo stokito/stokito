@@ -56,7 +56,7 @@ I'm available for a job:
 
 Contacts:
 * Email: [stokito@gmail.com](mailto:stokito@gmail.com)
-* XMPP (Jabber): [stokito@conversations.im](xmpp:stokito@conversations.im)
+* XMPP (Jabber): [stokito@conversations.im](xmpp:stokito@conversations.im) or <a href="xmpp:stokito@yax.im">stokito@yax.im</a>
 * Matrix: [@stokito:matrix.org](https://matrix.to/#/@stokito:matrix.org)
 * Telegram: [@stokito](https://t.me/stokito)
 
