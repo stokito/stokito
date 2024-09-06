@@ -11,10 +11,10 @@ Some useful projects that I developed, maintaining or contributed:
 * Self-hosting
   * [Yurt Page](https://github.com/yurt-page/docs) - a selfhosting at home on cheapest devices like a router
 * WebDAV - a file sharing made easy
-  * [Awesome WebDAV](https://github.com/stokito/awesome-webdav) - a currated list of software and articles that may use WebDAV.
-  * [Unofficial WebDAV support team](https://github.com/WebDAVDevs) - a place to organoze support and dicussions.
+  * [Awesome WebDAV](https://github.com/stokito/awesome-webdav) - a curated list of software and articles that may use WebDAV.
+  * [Unofficial WebDAV support team](https://github.com/WebDAVDevs) - a place to organize support and discussions.
   * [WebDAV browser extension](https://github.com/WebDAVDevs/webdav-browser-extension)
-  * [WebDAV with curl for scripts and command line](https://gist.github.com/stokito/cf82ce965718ce87f36b78f7501d7940)
+  * [WebDAV with curl](https://gist.github.com/stokito/cf82ce965718ce87f36b78f7501d7940) for scripts and command line
 * Golang micro libraries
   * [go-str2bytes](https://github.com/stokito/go-str2bytes) - string to byte slices without alloc by using unsafe 
   * [go-logger-noalloc](https://github.com/stokito/go-logger-noalloc) - a suckless logger that avoids mem allocs.
@@ -26,9 +26,9 @@ Some useful projects that I developed, maintaining or contributed:
   * [go-qrcode-libs-compare](https://github.com/stokito/go-qrcode-libs-compare) - a test project to check QR code libraries
   * [go-tcp-proxy](https://github.com/stokito/go-tcp-proxy/tree/mirroring) - to make a port mirroring.
   * [ctop](https://github.com/bcicen/ctop) - a top like GUI for Docker
-* [deflate](https://github.com/stokito/deflate) - a CLI tool to compress to Deflate insteasd of gzip
+* [deflate](https://github.com/stokito/deflate) - a CLI tool to compress to Deflate instead of gzip
 * [Ubuntu PPA with OpenWrt programs](https://github.com/stokito/openwrt-ubuntu)
-* [Pidgin FChat plugin](https://github.com/stokito/pidgin-fchat) - a suckless serverless UDP based chat messanger for local network.
+* [Pidgin FChat plugin](https://github.com/stokito/pidgin-fchat) - a suckless serverless UDP based chat messenger for local network.
 * Samples and tutorials for Java Juniors
   * [Calculator in JavaFX](https://github.com/stokito/javafx-calculator)
   * [Задачи из OSCJP сертификации по Java](https://github.com/stokito/OCPJP)
@@ -39,7 +39,7 @@ Some useful projects that I developed, maintaining or contributed:
   * [ports-service](https://github.com/stokito/ports-service) - Test assignment for Senior Golang Developer
   * [RPN calculator](https://github.com/stokito/rpn-calc) Test assignment for Senior Java Developer
   * [player-level-service](https://github.com/stokito/player-level-service) - Test assignment for Senior Java Developer
-  * [beer for a programmer](https://gist.github.com/stokito/8d2f19f007da5a9cc1eb) - live conding task in Groovy and Spock
+  * [beer for a programmer](https://gist.github.com/stokito/8d2f19f007da5a9cc1eb) - live coding task in Groovy and Spock
 * [Gist](https://gist.github.com/stokito) samples, instructions, scripts
   * [Cryptography GUI tools: OpenSSL GUI, keys management, PKI, PGP/GPG GUI](https://gist.github.com/stokito/eea7ee50d51e1db30122e2e33a62723e)
   * [CGI bin script samples](https://gist.github.com/stokito/a9a2732ffc7982978a16e40e8d063c8f)
