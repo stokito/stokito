@@ -20,7 +20,7 @@ Some useful projects that I developed, maintaining or contributed:
   * [go-logger-noalloc](https://github.com/stokito/go-logger-noalloc) - a suckless logger that avoids mem allocs.
   * [go-http-server-basic-auth](https://github.com/stokito/go-http-server-basic-auth) - a middleware for http server to make a simple auth.
   * [go-gzip-buf-file](https://github.com/stokito/go-gzip-buf-file) - create a gzip file, useful for logging.
-  * [go-intslice](https://github.com/stokito/go-intslice) - a slice of int16 with binary search. Nothing special, but makes easier working with small lists or maps
+small lists or maps
   * [go-http-body](https://github.com/stokito/go-http-body) - read request body and close it.
 * Golang projects
   * [go-qrcode-libs-compare](https://github.com/stokito/go-qrcode-libs-compare) - a test project to check QR code libraries
@@ -56,7 +56,7 @@ I'm available for a job:
 
 Contacts:
 * Email: [stokito@gmail.com](mailto:stokito@gmail.com)
-* XMPP (Jabber): [stokito@conversations.im](xmpp:stokito@conversations.im) or <a href="xmpp:stokito@yax.im">stokito@yax.im</a>
+* XMPP (Jabber): [stokito@conversations.im](xmpp:stokito@conversations.im) or [stokito@yax.im](xmpp:stokito@yax.im)
 * Matrix: [@stokito:matrix.org](https://matrix.to/#/@stokito:matrix.org)
 * Telegram: [@stokito](https://t.me/stokito)
 
