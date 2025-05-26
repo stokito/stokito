@@ -33,13 +33,6 @@ small lists or maps
   * [Calculator in JavaFX](https://github.com/stokito/javafx-calculator)
   * [Задачи из OSCJP сертификации по Java](https://github.com/stokito/OCPJP)
   * [Java live coding tasks](https://github.com/stokito/java-live-coding-tasks)
-* Portfolio and test assignments
-  * [sensord](https://github.com/stokito/sensord) - Test assignment for Senior Golang Developer
-  * [golang-parallel-downloader](https://github.com/stokito/golang-parallel-downloader) - live coding task from interview for Senior Golang developer 
-  * [ports-service](https://github.com/stokito/ports-service) - Test assignment for Senior Golang Developer
-  * [RPN calculator](https://github.com/stokito/rpn-calc) Test assignment for Senior Java Developer
-  * [player-level-service](https://github.com/stokito/player-level-service) - Test assignment for Senior Java Developer
-  * [beer for a programmer](https://gist.github.com/stokito/8d2f19f007da5a9cc1eb) - live coding task in Groovy and Spock
 * [Gist](https://gist.github.com/stokito) samples, instructions, scripts
   * [Cryptography GUI tools: OpenSSL GUI, keys management, PKI, PGP/GPG GUI](https://gist.github.com/stokito/eea7ee50d51e1db30122e2e33a62723e)
   * [CGI bin script samples](https://gist.github.com/stokito/a9a2732ffc7982978a16e40e8d063c8f)
