@@ -55,5 +55,5 @@ Contacts:
 
 My sites:
 * [Blog](https://stokito.wordpress.com/)
-* [Homepage](https://stokito.com/)
+* [Homepage](https://jkl.mn/)
 * [odysee.com/@stokito](https://odysee.com/@stokito) Odysee channel
