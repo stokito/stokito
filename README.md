@@ -49,7 +49,7 @@ I'm available for a job:
 
 Contacts:
 * Email: [stokito@gmail.com](mailto:stokito@gmail.com)
-* XMPP (Jabber): [stokito@conversations.im](xmpp:stokito@conversations.im) or [stokito@yax.im](xmpp:stokito@yax.im)
+* XMPP (Jabber): [stokito@conversations.im](https://xmpp.link/#stokito@conversations.im) or [stokito@yax.im](https://xmpp.link/#stokito@yax.im)
 * Matrix: [@stokito:matrix.org](https://matrix.to/#/@stokito:matrix.org)
 * Telegram: [@stokito](https://t.me/stokito)
 
