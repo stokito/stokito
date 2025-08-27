@@ -14,7 +14,6 @@ Some useful projects that I developed, maintaining or contributed:
   * [Awesome WebDAV](https://github.com/stokito/awesome-webdav) - a curated list of software and articles that may use WebDAV.
   * [Unofficial WebDAV support team](https://github.com/WebDAVDevs) - a place to organize support and discussions.
   * [WebDAV browser extension](https://github.com/WebDAVDevs/webdav-browser-extension)
-  * [WebDAV with curl](https://gist.github.com/stokito/cf82ce965718ce87f36b78f7501d7940) for scripts and command line
 * Golang micro libraries
   * [go-str2bytes](https://github.com/stokito/go-str2bytes) - string to byte slices without alloc by using unsafe 
   * [go-logger-noalloc](https://github.com/stokito/go-logger-noalloc) - a suckless logger that avoids mem allocs.
